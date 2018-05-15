@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.suma.tetris</groupId>
+  <artifactId>tetris-commons</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180515092220</lastUpdated>
+  </versioning>
+</metadata>
